@@ -1,0 +1,1 @@
+SELECT * FROM information_schema.columns WHERE column_name = 'id_paciente';

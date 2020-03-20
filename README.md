@@ -1,2 +1,3 @@
-# sql-hacks
-Compilado de hacks que fui precisando ao longo dos anos
+# SQL_solutions
+
+Some hacks using SQL or MYSQL
